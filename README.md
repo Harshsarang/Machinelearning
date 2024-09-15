@@ -1,3 +1,3 @@
 # Machinelearning
-Multiple projects in Machine learning
+Multiple projects in Machine learning.
 Author - Harsh Sarang
